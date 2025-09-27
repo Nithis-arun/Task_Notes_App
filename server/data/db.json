@@ -1,0 +1,29 @@
+{
+  "tasks": [],
+  "notes": [],
+  "users": [
+    {
+      "id": "2dff67fe-e6b0-4ec7-9edb-e4f136983733",
+      "email": "arunnithis062@gamil.com",
+      "name": "arun",
+      "passwordHash": "b006f65641bb068ef45c7d5f2f2b7267964d48783dc19e5535fb0b44fff0331105dac7b888d005be9ce7b4c10cd1cf57f832d38ed6c75f8dab79e78f7131e675",
+      "passwordSalt": "9acfcca8-e317-47d0-bd4d-60578b2ddf70",
+      "createdAt": "2025-09-18T16:03:40.360Z"
+    },
+    {
+      "id": "e1bacfef-5f82-4bfa-84d5-fe59b20a270b",
+      "email": "arunnithis062@gmail.com",
+      "name": "arun",
+      "passwordHash": "701ee670d8dbfbf8d52da4c2c3c676e7a2cfeaa7b135e3aa5aca690e65cfe1366f4403d02b078cf913f6fa9a86eb189b77bdabc3b3f924731447568ec86f0566",
+      "passwordSalt": "e60c3691-d1b3-4c24-b2ab-34cfb1852524",
+      "createdAt": "2025-09-18T16:09:20.338Z"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "b51018cf-b647-4565-8f4d-28e8946c8cc0",
+      "userId": "e1bacfef-5f82-4bfa-84d5-fe59b20a270b",
+      "expiresAt": "2025-09-21T16:09:43.232Z"
+    }
+  ]
+}
