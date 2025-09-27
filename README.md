@@ -137,5 +137,3 @@ If you prefer a Java Spring Boot + MongoDB API:
 - shared/ – shared TypeScript types
 - public/ – static assets
 
-## Support
-- Deploy via Netlify/Vercel MCP or open preview. For instructions and integrations, see Builder docs: https://www.builder.io/c/docs/projects
